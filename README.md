@@ -1,11 +1,9 @@
 
-# DIO | Aprendendo .NET e C#
+
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="30"/> <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" width="30"/> | .NET e C#
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="80"/> <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" width="80"/>
-
-
-Reposiório criado para registrar progresso na aprendizagem da lingugagem de programação C# e suas tecnologias relacionadas. Foi possível aquirir todos os materiais, videoaulas e conhecimento a partir do Bootcamp
+Reposiório criado para registrar progresso na aprendizagem da lingugagem de programação C# e suas tecnologias relacionadas. Foi possível aquirir todo o conhecimento e materiais de estudo a partir do Bootcamp
 [Decola Tech 2024](https://web.dio.me/track/decola-tech-avanade-net-developer).
 
 ## 📚💻 Ferramentas Utilizadas
