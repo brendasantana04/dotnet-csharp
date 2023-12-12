@@ -1,0 +1,15 @@
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\bin\Debug\net8.0\explorando-sintaxe.exe
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\bin\Debug\net8.0\explorando-sintaxe.deps.json
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\bin\Debug\net8.0\explorando-sintaxe.runtimeconfig.json
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\bin\Debug\net8.0\explorando-sintaxe.dll
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\bin\Debug\net8.0\explorando-sintaxe.pdb
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\explorando-sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\explorando-sintaxe.AssemblyInfoInputs.cache
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\explorando-sintaxe.AssemblyInfo.cs
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\explorando-sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\explorando-sintaxe.sourcelink.json
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\explorando-sintaxe.dll
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\refint\explorando-sintaxe.dll
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\explorando-sintaxe.pdb
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\explorando-sintaxe.genruntimeconfig.cache
+C:\Users\brend\Desktop\git github\dotnet-csharp\explorando-sintaxe\obj\Debug\net8.0\ref\explorando-sintaxe.dll
