@@ -1,3 +1,6 @@
 [submodule "trilha-net-fundamentos-desafio"]
 	path = trilha-net-fundamentos-desafio
 	url = https://github.com/brendasantana04/trilha-net-fundamentos-desafio.git
+[submodule "trilha-net-poo-desafio"]
+	path = trilha-net-poo-desafio
+	url = https://github.com/brendasantana04/trilha-net-poo-desafio
