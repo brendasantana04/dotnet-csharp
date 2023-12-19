@@ -27,6 +27,6 @@ Repositório criado para registrar o meu progresso na aprendizagem da linguagem 
 ## ⚒️ Desafios de Projeto com C#
 [Construindo um Sistema para Estacionamento](https://github.com/brendasantana04/trilha-net-fundamentos-desafio.git)
 
-[Criando um Sistema e Abstraindo um Celular]()
+[Criando um Sistema e Abstraindo um Celular](https://github.com/brendasantana04/trilha-net-poo-desafio)
 
-[Implementando Testes Unitários]()
+[Implementando Testes Unitários](https://github.com/brendasantana04/trilha-net-testes-unitarios-desafio)
