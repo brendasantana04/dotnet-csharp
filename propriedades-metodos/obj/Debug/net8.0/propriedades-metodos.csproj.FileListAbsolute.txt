@@ -1,0 +1,15 @@
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\bin\Debug\net8.0\propriedades-metodos.exe
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\bin\Debug\net8.0\propriedades-metodos.deps.json
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\bin\Debug\net8.0\propriedades-metodos.runtimeconfig.json
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\bin\Debug\net8.0\propriedades-metodos.dll
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\bin\Debug\net8.0\propriedades-metodos.pdb
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\propriedades-metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\propriedades-metodos.AssemblyInfoInputs.cache
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\propriedades-metodos.AssemblyInfo.cs
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\propriedades-metodos.csproj.CoreCompileInputs.cache
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\propriedades-metodos.sourcelink.json
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\propriedades-metodos.dll
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\refint\propriedades-metodos.dll
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\propriedades-metodos.pdb
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\propriedades-metodos.genruntimeconfig.cache
+C:\Users\brend\Desktop\git github\dotnet-csharp\propriedades-metodos\obj\Debug\net8.0\ref\propriedades-metodos.dll
